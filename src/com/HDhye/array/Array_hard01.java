@@ -26,30 +26,33 @@ public class Array_hard01 {
 		 */
 		
 		//int[홀수] /2n개 까지는 1++ , /2n개부터 1-- 대입 
+//		
+//		Scanner sc = new Scanner(System.in);
+//		
+//		System.out.print("홀수인 양의 정수를 입력하세요. : ");
+//		
+//		int oddNumber = sc.nextInt();
+//		int[] iarr = new int[oddNumber]; 
+//		
+//		if(oddNumber % 2 != 0 && oddNumber > 0 ) {
+//			
+//			int num = 1; 
+//			
+//			for(int i = 0; i < iarr.length/2; i++) {
+//				
+//				iarr[i] = num++; 
+//				System.out.print(iarr[i] + " ");
+//			}
+//			
+//			for(int j = iarr.length/2; j < iarr.length; j++) {
+//				
+//				iarr[j] = num--; 
+//				System.out.print(iarr[j] + " ");
+//			}
+//			
+//		} else System.out.println("양수 혹은 홀수만 입력해야 합니다.");
 		
-		Scanner sc = new Scanner(System.in);
-		
-		System.out.print("홀수인 양의 정수를 입력하세요. : ");
-		
-		int oddNumber = sc.nextInt();
-		int[] iarr = new int[oddNumber]; 
-		
-		if(oddNumber % 2 != 0 && oddNumber > 0 ) {
-			
-			int num = 1; 
-			
-			for(int i = 0; i < iarr.length/2; i++) {
-				
-				iarr[i] = num++; 
-				System.out.print(iarr[i] + " ");
-			}
-			
-			for(int j = iarr.length/2; j < iarr.length; j++) {
-				
-				iarr[j] = num--; 
-				System.out.print(iarr[j] + " ");
-			}
-			
-		} else System.out.println("양수 혹은 홀수만 입력해야 합니다.");
+		String str = "hello world";
+		System.out.println(str.contains("s"));
 	}
 }
