@@ -13,6 +13,7 @@ import java.util.List;
 public class DoubleArrayStar {
 
 	// commit test 1
+	// cot 2
 	 
 	private static class Point {
 		
