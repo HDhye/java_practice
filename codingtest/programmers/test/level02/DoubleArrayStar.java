@@ -14,8 +14,7 @@ public class DoubleArrayStar {
 
 	// commit test 1
 	// cot 2
-	// test 3
-
+	 
 	private static class Point {
 		
 		public final long x;
