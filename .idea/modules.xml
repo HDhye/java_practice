@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_practice/basic_exam/basic_exam.iml" filepath="$PROJECT_DIR$/java_practice/basic_exam/basic_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/basic_exam/class-and-object/class-and-object.iml" filepath="$PROJECT_DIR$/java_practice/basic_exam/class-and-object/class-and-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice/codingtest/codingtest.iml" filepath="$PROJECT_DIR$/java_practice/codingtest/codingtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_practice.iml" filepath="$PROJECT_DIR$/java_practice.iml" />
+    </modules>
+  </component>
+</project>
