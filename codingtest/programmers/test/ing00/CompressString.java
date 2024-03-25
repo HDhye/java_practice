@@ -19,6 +19,7 @@ package programmers.test.ing00;
  */
 public class CompressString {
 
+	// ajjajadidididiidid
 	//이때 3개 단위로 자르고 마지막에 남는 문자열은 그대로 붙여주면 됩니다. 2abc2de
 	
 	/* 
