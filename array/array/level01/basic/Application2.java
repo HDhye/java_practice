@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Application2 {
 
 	public static void main(String[] args) {
+
+		///// tres
 		
 		/* 길이가 5인 String 배열을 선언하고 
 		 * "딸기", "바나나", "복숭아", "키위", "사과" 로 초기화를 하고
